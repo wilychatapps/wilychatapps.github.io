@@ -2,30 +2,30 @@
     "Status": true,
     "HttpStatus": 200,
     "Data": {
-        "ShowAds": true,
+        "ShowAds": false,
         "Ads": [
-            {
-                "MonetizationId": 1,
-                "MonetizerName": "Facebook Monetization",
-                "AdAppKey": "411218277829882",
-                "BannerAdKey": "411218277829882_411218887829821",
-                "InterstitialAdKey": "411218277829882_411218941163149",
-                "RewardedAdKey": "411218277829882_411219061163137",
-                "NativeAdKey": ""
-            },
+			{
+				"MonetizationId": 1,
+				"MonetizerName": "Facebook Monetization",
+				"AdAppKey": "FacebookFacebookFacebook",
+				"BannerAdKey": "FacebookFacebookFacebook",
+				"InterstitialAdKey": "FacebookFacebookFacebook",
+				"RewardedAdKey": "FacebookFacebookFacebook",
+				"NativeAdKey": ""
+			},
             {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
-                "AdAppKey": "1688a540d",
+                "AdAppKey": "1261eec25",
                 "BannerAdKey": "",
                 "InterstitialAdKey": "",
                 "RewardedAdKey": "",
                 "NativeAdKey": ""
             },
-            {
+			{
 				"MonetizationId": 5,
 				"MonetizerName": "UnityAds",
-				"AdAppKey": "4936957",
+				"AdAppKey": "4859841",
 				"BannerAdKey": "Banner_Android",
 				"InterstitialAdKey": "Interstitial_Android",
 				"RewardedAdKey": "Rewarded_Android",
